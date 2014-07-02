@@ -1,0 +1,40 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:DataContainer id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lines/Lines%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<LengthField>7</LengthField>
+<CountBallColors>5</CountBallColors>
+<CountLengthLines>4</CountLengthLines>
+<CountNextBalls>3</CountNextBalls>
+<DrawOneCellLength>50</DrawOneCellLength>
+<SpeedBallPlacement>15</SpeedBallPlacement>
+<SpeedBallAnimation>1</SpeedBallAnimation>
+<SpeedNextBallAnimation>1</SpeedNextBallAnimation>
+<SpeedBallsAppearDisapear>1</SpeedBallsAppearDisapear>
+<SpeedNextBallsAppearDisapear>2</SpeedNextBallsAppearDisapear>
+<SavedGame>true</SavedGame>
+<SaveScore>true</SaveScore>
+<BallColors xsi:null="1"/>
+<records href="#ref-3"/>
+<engineData xsi:null="1"/>
+<GameStarted>false</GameStarted>
+</a1:DataContainer>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="a1:Record[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lines/Lines%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+</SOAP-ENC:Array>
+<a1:Record id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lines/Lines%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_Score_x003E_k__BackingField>4</_x003C_Score_x003E_k__BackingField>
+<_x003C_FieldLength_x003E_k__BackingField>4</_x003C_FieldLength_x003E_k__BackingField>
+<_x003C_CountBallPerTurn_x003E_k__BackingField>3</_x003C_CountBallPerTurn_x003E_k__BackingField>
+<_x003C_CountColorsPerGame_x003E_k__BackingField>5</_x003C_CountColorsPerGame_x003E_k__BackingField>
+<_x003C_Name_x003E_k__BackingField id="ref-6">Player</_x003C_Name_x003E_k__BackingField>
+</a1:Record>
+<a1:Record id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lines/Lines%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_Score_x003E_k__BackingField>0</_x003C_Score_x003E_k__BackingField>
+<_x003C_FieldLength_x003E_k__BackingField>4</_x003C_FieldLength_x003E_k__BackingField>
+<_x003C_CountBallPerTurn_x003E_k__BackingField>3</_x003C_CountBallPerTurn_x003E_k__BackingField>
+<_x003C_CountColorsPerGame_x003E_k__BackingField>5</_x003C_CountColorsPerGame_x003E_k__BackingField>
+<_x003C_Name_x003E_k__BackingField id="ref-7">Player</_x003C_Name_x003E_k__BackingField>
+</a1:Record>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

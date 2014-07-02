@@ -1,0 +1,13 @@
+D:\Anton\Мои программы\Lines\Lines\bin\Release\Lines.exe
+D:\Anton\Мои программы\Lines\Lines\bin\Release\Lines.pdb
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\Lines.GUI.resources
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\Lines.NewRecord.resources
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\Lines.Properties.Resources.resources
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\Lines.RecordsWiev.resources
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\Lines.SelectColors.resources
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\Lines.SettingsForm.resources
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\Lines.exe
+D:\Anton\Мои программы\Lines\Lines\obj\x86\Release\Lines.pdb
